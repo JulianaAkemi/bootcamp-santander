@@ -19,5 +19,5 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto criado para o Bootcamp FullStack Santander na Santander Week. Por Juliana Akemi.
-  version: 1.0
+  description: Projeto criado para o Bootcamp FullStack Santander na Santander Week - Backend. Por Juliana Akemi.
+  version: 2.0
